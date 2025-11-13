@@ -36,7 +36,7 @@ GPS-based radius notifications ensure help arrives quickly from those closest to
 
 ## Project Status
 
-**In Development** - Solo portfolio project
+**In Development** 
 
 ## Project Structure
 ```
@@ -47,12 +47,13 @@ PawAlert/
 
 ## License
 
-MIT License - See [LICENSE](LICENSE) file
+No license 
 
 ## Author
 
-[Your Name] - [Your LinkedIn/Email]
+Nafisa Haque - nafisa.vns56@gmail.com
 
 ---
 
 Star this repo if you find it interesting!
+
